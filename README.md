@@ -1,3 +1,3 @@
 # JackBot
 
-A bot from which data of mobile game Helios Rising Heroes can be requested.
+A Bot for QQ group to require for data from mobile game Helios Rising Heroes.
